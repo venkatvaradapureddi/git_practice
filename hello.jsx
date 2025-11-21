@@ -11,8 +11,9 @@ export default hello
 
 import React from 'react'
 
-const ello = () => {
+export const Bye = () => {
   return (
-    <div>hello</div>
+    <div>Bye</div>
   )
 }
+
