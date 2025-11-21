@@ -1,5 +1,5 @@
 
-import './App.css'
+
 import { employeesData } from './data'
 import DataTable from "react-data-table-component";
  import { useState } from 'react';
