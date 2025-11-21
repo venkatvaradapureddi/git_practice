@@ -8,3 +8,11 @@ const hello = () => {
 }
 
 export default hello
+
+import React from 'react'
+
+const ello = () => {
+  return (
+    <div>hello</div>
+  )
+}
