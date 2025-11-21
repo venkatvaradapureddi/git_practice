@@ -17,3 +17,12 @@ export const Bye = () => {
   )
 }
 
+import React from 'react'
+
+const morning = () => {
+  return (
+    <div>morning</div>
+  )
+}
+
+
