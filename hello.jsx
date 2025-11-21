@@ -19,11 +19,10 @@ export const Bye = () => {
 
 import React from 'react'
 
-const main = () => {
+const morning = () => {
   return (
-    <div>main</div>
+    <div>morning</div>
   )
 }
-
 
 
